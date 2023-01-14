@@ -1,3 +1,4 @@
+10519703-Tia Eka Safitri-TPDM3
 # Deployment Model Regresi Linier
 
 ## Deskripsi singkat
